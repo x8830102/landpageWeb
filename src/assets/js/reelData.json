@@ -1,0 +1,46 @@
+[{
+        "title": "CIS入門：企業品牌策略與包裝設計",
+        "description": "建立品牌最好的時機，就從你創業的那一刻開始！ 在起步時就擬定品牌策略，讓你不迷路",
+        "imgUrl": "https://picsum.photos/640/320?image=123",
+        "link": "http://google.com.tw"
+    },
+    {
+        "title": "產品開發與企劃：實戰導引班",
+        "description": "產品開發不能老是天馬行空，想到哪做到哪。 跟著老師學習完整的開發與企劃流程，讓你成為專業產品經理與企劃達人！",
+        "imgUrl": "https://picsum.photos/640/320?image=456",
+        "link": "http://google.com.tw"
+    },
+    {
+        "title": "小公司的媒體合作與公關策略：讓媒體愛上你活動報名頁",
+        "description": "新產品上市要辦記者會，才發現連新聞稿都不會寫？ 嘔心瀝血的寫了洋洋灑灑的新聞稿，卻沒有媒體想刊登？ 你需要的是小企業也能運用的媒體與公關策略！",
+        "imgUrl": "https://picsum.photos/640/320?image=111",
+        "link": "http://google.com.tw"
+    },
+    {
+        "title": "中小企業對外關係必修課：參展策略與戰術準備 ",
+        "description": "參展是幫自己曝光，還是幫主辦單位抬轎？ 如何評估參展效益，如何在現場展示自己的優勢？ 你需要學會內行人的心法與門道",
+        "imgUrl": "https://picsum.photos/640/320?image=101",
+        "link": "http://google.com.tw"
+    },
+    {
+        "title": "非營利組織文案寫作與公益行銷（南部巡迴）",
+        "description": "如何讓你的組織的貢獻與理念，被更多人認同，吸引更多人注意呢？ 你需要的是一套完整的文案寫作方法與行銷概念，用廣告人的心態來推廣理念，讓你的倡議更加有效！",
+        "imgUrl": "https://picsum.photos/640/320?image=112",
+        "link": "http://google.com.tw"
+    }, {
+        "title": "音樂節與展演空間經營實務活動報名頁",
+        "description": "從０到有，打造自己的音樂夢想藍圖！音樂節＆展演空間專業人才的養成指南，Wake Up Festival 覺醒音樂祭策展人６小時親授！",
+        "imgUrl": "https://picsum.photos/640/320?image=951",
+        "link": "http://google.com.tw"
+    }, {
+        "title": "寒假課程說明會: 一個帶得走、陪你一輩子的學校該長什麼樣？",
+        "description": "知名 DJ、專業配音員歐馬克親自傳授聲音理論與技巧，無論你要會議簡報、推銷談判、當 YouTuber 或直播主……完整學過一次，一生受用！",
+        "imgUrl": "https://picsum.photos/640/320?image=852",
+        "link": "http://google.com.tw"
+    }, {
+        "title": "聲音決定你的說服力：一生受用的聲音表情訓練課程",
+        "description": "愛看演唱會的你，不再空手回家！一次學會針對各種性質大小的表演場地、各種拍照工具的實戰技術要領，不用拿大砲也能拍好照片！",
+        "imgUrl": "https://picsum.photos/640/320?image=758",
+        "link": "http://google.com.tw"
+    }
+]
